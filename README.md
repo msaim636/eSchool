@@ -1,6 +1,7 @@
 # eSchool
 # 🎓 eSchool
 <img width="1917" height="941" alt="image" src="https://github.com/user-attachments/assets/9b319507-a080-43a1-aa61-343855ecefdf" />
+<img width="384" height="733" alt="image" src="https://github.com/user-attachments/assets/9a210cbd-9ab7-4c72-88f6-52861bf84196" />
 
 > A complete school management system designed to simplify academic, administrative, and student-related activities through a centralized digital platform.
 
